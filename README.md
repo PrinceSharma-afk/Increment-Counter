@@ -13,7 +13,7 @@ It animates numbers counting up from `0` to a target value, often used for displ
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to see it live](https://PrinceSharma-afk.github.io/increment-counter/)
+👉 [Click here to see it live](https://princesharma-afk.github.io/Increment-Counter/)
 
 ---
 
